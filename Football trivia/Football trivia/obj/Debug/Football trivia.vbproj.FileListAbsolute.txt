@@ -1,0 +1,11 @@
+C:\Users\CCLC\Documents\Ani\Football trivia\Football trivia\bin\Debug\Football trivia.exe.config
+C:\Users\CCLC\Documents\Ani\Football trivia\Football trivia\bin\Debug\Football trivia.exe
+C:\Users\CCLC\Documents\Ani\Football trivia\Football trivia\bin\Debug\Football trivia.pdb
+C:\Users\CCLC\Documents\Ani\Football trivia\Football trivia\bin\Debug\Football trivia.xml
+C:\Users\CCLC\Documents\Ani\Football trivia\Football trivia\obj\Debug\Football trivia.vbprojResolveAssemblyReference.cache
+C:\Users\CCLC\Documents\Ani\Football trivia\Football trivia\obj\Debug\Football_trivia.Form1.resources
+C:\Users\CCLC\Documents\Ani\Football trivia\Football trivia\obj\Debug\Football_trivia.Resources.resources
+C:\Users\CCLC\Documents\Ani\Football trivia\Football trivia\obj\Debug\Football trivia.vbproj.GenerateResource.Cache
+C:\Users\CCLC\Documents\Ani\Football trivia\Football trivia\obj\Debug\Football trivia.exe
+C:\Users\CCLC\Documents\Ani\Football trivia\Football trivia\obj\Debug\Football trivia.xml
+C:\Users\CCLC\Documents\Ani\Football trivia\Football trivia\obj\Debug\Football trivia.pdb
